@@ -1,6 +1,6 @@
-# Pc fixe ( novembre 2023)
+# Infos et configs de mon pc ( novembre 2023 )
 ## _Liste des composants_
-| Composant | Description + lien vers site d'achat |
+| Composants | Descriptions |
 | ------ | ------ |
 | Boitier | [Corsair 4000D Airflow blanc](https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_w_boi_sa_puis_ref_est_in20004228.html)  |
 | Carte Mère | [MB GBT AMD AM5 B650 Gaming X AX](https://www.amazon.fr/dp/B0BKPTTHXM) |
@@ -12,13 +12,15 @@
 | Radiateur | [Thermalright Peerless Assassin 120 CPU Air Cooler](https://www.amazon.fr/dp/B09NS9Z5BB) |
 | Ventilateurs | [Thermalright TL-C12C X3 CPU Fan 120mm Case Cooler Fan](https://www.amazon.fr/dp/B0BQD467JL ) |
 
-## _BIOS Mise à jour_
+## _BIOS last update_
 [B650 GAMING X AX (rev. 1.3)](https://www.gigabyte.com/fr/Motherboard/B650-GAMING-X-AX-rev-13/support#support-dl-bios)
 
-## _Systèmes d'exploitation à installer_
+## _OS_
 - **ESP** ( UEFI boot FAT32 - secure boot OFF - csm OFF - only UEFI)
 - **Microsoft Windows 10**
-- [Endeavouros](https://endeavouros.com/) : [lien vers DL ISO version Galileo 11](https://endeavour.remi.lu/iso/Endeavouros-Galileo-11-2023.iso)
+- **Endeavouros** :
+   - [ISO version Galileo 11](https://endeavour.remi.lu/iso/Endeavouros-Galileo-11-2023.iso)
+   - gestionnaire de fenêtres : [i3wm](https://i3wm.org/)
 
 ## _Partitionnement du disque_
 - **ESP(UEFI)** : 500Mo ( 100 devraient suffire mais par sécurité 500)
