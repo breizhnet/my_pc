@@ -34,6 +34,6 @@
   - Sauvegardes : 300Go EXT4 
 
 ## _Questions_
-- Partage de profils firefox ( solutions locale opensource linux/windows ?)
+- Partage de profils firefox - password( solutions locale opensource linux/windows ?)
 - Solutions hébergements/diffusion vidéos ?
 - Support supplémentaire si CG trop lourde/longue ?
