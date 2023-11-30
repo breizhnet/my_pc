@@ -1,4 +1,4 @@
-# Infos et configs de mon pc ( novembre 2023 )
+# Novembre 2023 - PC -
 ## _Liste des composants_
 | Composants | Descriptions |
 | ------ | ------ |
